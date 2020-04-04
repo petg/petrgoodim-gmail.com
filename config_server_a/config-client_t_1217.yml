@@ -1,0 +1,6 @@
+xclient:
+  version: 12
+  type: 1217
+  key: 3231
+server:
+  port: 8081
