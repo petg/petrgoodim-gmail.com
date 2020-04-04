@@ -2,5 +2,7 @@ xclient:
   version: 12
   type: 1217
   key: 3231
+  secret:
+    word: '{cipher}d9c20ab004bf51e049dcba0264e7e6f8485d3b08'
 server:
   port: 8081
