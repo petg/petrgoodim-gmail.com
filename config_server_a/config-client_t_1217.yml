@@ -3,6 +3,6 @@ xclient:
   type: 1217
   key: 3231
   secret:
-    word: "{cipher}d9c20ab004bf51e049dcba0264e7e6f8485d3b08"
+    word: "{cipher}AQAOev5Z23ZdRL19yaWWyTqjmmqKUB9iGlq1ooqcwmvXZM89LAjXYzL0iOQv3wAhx18HfgxXIOZVH8qujhQbW17Us7we+O/iDy6ASlp0+ggIyW43EcPPbE7P9tCAzNdy8zttfCLOVKHPGh+5DLD1omCqk+iHb7TJLbJXqXoxdrKASpU+nZOV0nm2c6tt4+keBYfuPXBjF12rRLczstzYJW33fg9pBBDE4q3HKNSwX6oponzUaIdhKuvJ6dxD9VSrlj7OsxE5Ga9I+AVw4jzQuCJgcEAuUJYmYioGy0/38FPM+z8hD5q2ayUc4sPAgv8cYw6AGfUCDMLbRziu4CeL+uPTHnIUvi3MAbkhLDKHZD+2yZht+phsjBHwoaoIG+5fHlc="
 server:
   port: 8081
